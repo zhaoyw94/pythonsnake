@@ -202,7 +202,14 @@ def press(btn):
 
         if __name__ == '__main__':
             main()
-        else:
+   
+    elif btn == 'Game 3':
+        app.infoBox("b1","this is our second game, Snake game")
+        # ton of codes!
+      
+
+
+    else:
             print('Pick a valid option')
 
 
